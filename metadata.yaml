@@ -1,0 +1,25 @@
+_repo: Merirosvojen-aarre-b-Kertomus_75115
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gartner, Georg
+    gutenberg_agent_id: '57836'
+    url: http://www.gutenberg.org/2009/agents/57836
+description: ''
+gutenberg_issued: '2025-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75115'
+language: fi
+pgterms:marc905: 20250110235755gartner
+pgterms:marc906: '1904'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHamina :$bAlfred Lagerbom, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Merirosvojen aarre : $b Kertomus'
+url: http://www.gutenberg.org/ebooks/75115
