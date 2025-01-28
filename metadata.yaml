@@ -1,11 +1,16 @@
 _repo: Merirosvojen-aarre-b-Kertomus_75115
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gartner, Georg
     gutenberg_agent_id: '57836'
     url: http://www.gutenberg.org/2009/agents/57836
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75115#Merirosvojen-aarre-b-Kertomus
 gutenberg_issued: '2025-01-15'
 gutenberg_type: Text
 identifiers:
